@@ -1,4 +1,4 @@
-# AGOT ES - Wiki de Localización
+# A Game Of Thrones en Español - Wiki de Localización
 Repositorio oficial de reglas de traducción del mod CK3 AGOT en español.
 
 ---
