@@ -1,0 +1,94 @@
+# GLOSARIO MAESTRO DE LOCALIZACIÓN
+
+## TÉRMINOS DE ORIGEN GEOGRÁFICO
+
+- **Ford**      → Vado / Cruce / Vadera  
+- **Wade**      → Vado / Cruce / Pontón / Pasil / Vadera  
+- **Cross**     → Cruce / Paso / Badén  
+- **Beck**      → Arroyo / Riachuelo / Canal  
+- **Brook**     → Vaguada / Arroyo / Torrente / Caudal  
+- **Creek**     → Arroyo / Caudal / Riachuelo / Quebrada / Cañada  
+- **Stream**    → Corriente / Arroyo / Canal  
+- **Rill**      → Riachuelo / Hilo de agua  
+- **Run**       → Corriente / Canal / Cauce  
+- **Rush**      → Torrentera / Corriente / Caudal / Rápidos / Raudal  
+- **Flow**      → Flujo / Corriente  
+- **River**     → Río / Corriente / Arroyo  
+- **Branch**    → Brazo / Ramal / Afluente  
+- **Fork**      → Forca / Brazo / Horca  
+- **Bend**      → Recodo / Meandro / Vuelta  
+- **Spring**    → Manantial / Fuente  
+- **Well**      → Pozo / Manantial  
+- **Pool**      → Pozo / Lago / Estanque / Poza  
+- **Pond**      → Estanque / Poza / Laguna  
+- **Lake**      → Lago / Estanque / Poza  
+- **Marsh**     → Marisma / Pantano / Ciénaga  
+- **Bog**       → Pantano / Ciénaga / Turbera  
+- **Bay**       → Bahía / Ribera / Ensenada  
+- **Cove**      → Caleta / Cala / Ensenada  
+- **Sound**     → Estrecho / Fiordo / Brazo  
+- **Sound**     → Estrecho / Sondada / Brazo / Sonda  
+- **Harbor**    → Puerto / Fondeadero  
+- **Beach**     → Playa / Costa / Ribera  
+- **Shore**     → Costa / Ribera / Borde (costero)  
+- **Brim**      → Borde / Ribera  
+- **Coast**     → Costa / Litoral  
+- **Cape**      → Cabo / Punta  
+- **Point**     → Punta / Cabo  
+- **Mull**      → Península / Cabo / Punta / Promontorio  
+- **Spine**     → Cima / Espinazo *(uso contextual)*  
+- **Island**    → Isla / Islote  
+- **Isles**     → Islas / Islotes  
+- **Neck**      → Cuello / Istmo / Paso  
+- **Sea**       → Mar / Océano  
+- **Hill**      → Colina / Cuesta / Cerro  
+- **Hills**     → Colinas / Cuestas / Cerros  
+- **Heights**   → Alturas / Cumbres / Riscos  
+- **Downs**     → Lomas / Colinas / Campiña  
+- **Ridge**     → Loma / Cresta  
+- **Rise**      → Elevación / Loma / Repecho  
+- **Slope**     → Ladera / Declive / Cuesta  
+- **Bluff**     → Farallón / Escarpa / Risco  
+- **Ledge**     → Repisa / Cornisa / Saliente  
+- **Cliff**     → Acantilado / Risco / Peñasco  
+- **Crag**      → Peñasco / Risco / Farallón  
+- **Scar**      → Cicatriz / Peñasco / Risco  
+- **Peak**      → Pico / Cima / Cumbre  
+- **Bill**      → Cabo / Estrecho / Pico / Promontorio  
+- **Mountain**  → Montaña / Cumbre / Risco  
+- **Stone**     → Piedra  
+- **Tooth**     → Diente / Pico  
+- **Tusk**      → Colmillo / Espolón  
+- **Horn**      → Cuerno / Promontorio  
+- **Finger**    → Dedo *(uso contextual: espolón)*  
+- **Mound**     → Montículo / Otero / Túmulo / Montel  
+- **Glen**      → Cañada / Valle / Vaguada / Vallejo / Vagual  
+- **Fold**      → Folde / Valle / Val  
+- **Vale**      → Val / Vall / Valde  
+- **Valley**    → Valle / Cuenca / Valde / Val  
+- **Pass**      → Paso / Puerto / Collado  
+- **Gap**       → Paso / Brecha / Abertura  
+- **Field**     → Campo / Tierra / Prado / Llano  
+- **Fields**    → Campos / Tierras / Prados  
+- **Meadow**    → Dehesa / Prado / Vega  
+- **Flats**     → Llanos / Planicie / Planada  
+- **Plains**    → Llanura / Planicie / Explanada  
+- **Barren**    → Baldío / Páramo / Yermo  
+- **Moor**      → Pampa / Páramo / Yermo / Brezal  
+- **Heath**     → Brezal / Páramo / Yermo  
+- **Fell**      → Páramo / Altura / Risco  
+- **Hollow**    → Hondonada / Caverna / Cueva  
+- **Dell**      → Sima / Hondonada / Cañada / Depresión  
+- **Deep**      → Hondonada / Hondada / Profundidad / Abismo / Abismal  
+- **Den**       → Guarida / Cubil / Madriguera  
+- **Sands**     → Arenas / Arenal / Arenales  
+- **Dune**      → Duna / Médano  
+- **Wood**      → Bosque / Selva / Monte  
+- **Forest**    → Bosque / Selva / Floresta  
+- **Holt**      → Arboleda / Soto / Sota  
+- **Grove**     → Soto / Arboleda  
+- **Glade**     → Claro / Calvero  
+- **Fall**      → Caída / Salto  
+- **Falls**     → Cascada / Catarata  
+- **Drop**      → Caída / Precipicio  
+- **Star**      → Estrella / Estrellas  
