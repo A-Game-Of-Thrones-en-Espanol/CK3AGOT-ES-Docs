@@ -1,0 +1,82 @@
+# GLOSARIO MAESTRO DE LOCALIZACIÓN
+
+## TÉRMINOS DE ORIGEN ANTROPOLÓGICOS
+
+- **Blunt**         → Romo / Firme  
+- **Mark**          → Marca / Frontera / Límite  
+- **Edge**          → Frontera / Límite / Filo  
+- **March**         → Marca / Frontera / Límite / Marcha  
+- **Vare**          → Fortificado / Amurallado *(uso contextual)*  
+- **Stone**         → Fortaleza / Castro / Castel *(uso contextual)*  
+- **Fort**          → Fortaleza / Forte / Fuerte  
+- **Chester**       → Castro / Castel / Castell  
+- **Castle**        → Castillo / Fortaleza  
+- **Keep**          → Torreón / Torre  
+- **Tower**         → Torre / Torreón  
+- **Hold**          → Bastión / Torreón  
+- **Stand**         → Puesto / Bastión / Reducto  
+- **Bail / Bailey** → Palenque / Fortín / Forte  
+- **Motte**         → Mota / Motta  
+- **Moat**          → Foso / Mazmorra  
+- **Watch**         → Guardia / Atalaya  
+- **Wall**          → Muralla / Muro  
+- **Hennery**       → Clavería (Gallinero)  
+- **Kennel**        → Perrera / Canil / Houndería  
+- **Stable**        → Establo / Caballeriza / Cuadra  
+- **Stud**          → Yeguada / Potrero  
+- **Paddock**       → Potrero / Dehesa  
+- **Pigpen**        → Pocilga / Zahúrda / Porqueriza  
+- **Mews**          → Halconera / Pajarera / Cetrería  
+- **Columbary**     → Palomar / Columbario / Colombario  
+- **Warren**        → Conejera / Madriguera / Vivero  
+- **Yard**          → Patio / Corral  
+- **Gate**          → Puerta / Portal / Portón  
+- **Haft**          → Empuñadura / Mango / Asa  
+- **Pike**          → Pica  
+- **Spear**         → Lanza *(uso contextual: lanzalarga)*  
+- **Lance**         → Lanza  
+- **Sword**         → Espada  
+- **Dagger**        → Daga  
+- **Axe**           → Hacha  
+- **Bolt**          → Saeta / Virote / Vira  
+- **Arch**          → Arco / Arcada  
+- **Shield**        → Escudo  
+- **Torch**         → Antorcha / Torcha  
+- **Plume**         → Penacho / Pluma  
+- **Weir**          → Azud / Presa / Represa  
+- **Skull**         → Cráneo / Calavera  
+- **Spine**         → Columna / Espinazo  
+- **Hall**          → Salón / Sala *(uso contextual: gran sala)*  
+- **House**         → Casa / Solar / Solariego *(uso contextual: palacete)*  
+- **Home**          → Hogar / Morada / Casa  
+- **Hearth**        → Hogar / Fogón / Corazón  
+- **Lodge**         → Albergue / Posada / Cabaña  
+- **Perch**         → Atalaya / Mirador / Posadero  
+- **Town**          → Villa / Ciudad  
+- **Village**       → Aldea / Pueblo  
+- **Hamlet**        → Caserío / Villorrio / Lugarejo  
+- **Ham**           → Asentamiento / Caserío / Villorrio  
+- **Ton**           → Villa / Villorrio / Aldea *(uso contextual: -tón sufijo)*  
+- **Stead**         → Granja / Asentamiento / Caserío  
+- **Sted**          → Granja / Asentamiento / Caserío  
+- **Ster**          → Granja / Asentamiento / Caserío  
+- **By**            → Villa / Aldea / Burgo  
+- **Bury**          → Burgo / Ciudadela  
+- **Square**        → Ciudadela / Plaza *(uso contextual: fortín / cuartel)*  
+- **Market**        → Mercado / Plaza  
+- **Drain**         → Drenaje / Desagüe  
+- **Hull**          → Casco / Armazón  
+- **Port**          → Puerto / Embarcadero / Cala / Caleta / Atracadero  
+- **Bridge**        → Puente / Paso / Cruce / Pontón  
+- **Ferry**         → Barcaza / Barca / Barco  
+- **Crossing**      → Cruce / Vado / Paso  
+- **Road**          → Camino / Senda / Calzada  
+- **Way**           → Vía / Camino / Senda  
+- **Anchor**        → Ancla / Fondeadero  
+- **Mill**          → Molino / Forja  
+- **Sept**          → Septo / Templo  
+- **Abbey**         → Abadía  
+- **Barrow**        → Túmulo / Montículo funerario  
+- **Grave**         → Tumba / Sepulcro  
+- **Crown**         → Corona / Diadema / Coronilla  
+- **Wreath**        → Corona / Guirnalda  
