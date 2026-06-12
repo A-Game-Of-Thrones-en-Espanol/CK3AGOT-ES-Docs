@@ -1,15 +1,14 @@
 # AGOT ES - Wiki de Localización
 
-Este es el sistema oficial de reglas de traducción del mod A Game of Thrones en Español.
+Este es el sistema oficial de reglas de traducción del mod *A Game of Thrones en Español*.
 
 ---
 
-## Documentos
+## Documentación
 
 - Criterios de traducción
-- Reglas de sintaxis
-- Reglas de identificación
-- Glosarios oficiales
+- Reglas de sintaxis e identificación
+- Glosario General
 
 ---
 
