@@ -1,17 +1,20 @@
 # AGOT ES - Wiki de Localización
 
-Este es el sistema oficial de reglas de traducción del mod *A Game of Thrones en Español*.
+Repositorio oficial de reglas de traducción del mod CK3 AGOT en español.
 
 ---
 
 ## Documentación
 
-- Criterios de traducción
-- Reglas de sintaxis e identificación
-- Glosario General
+- [Criterios de traducción](criterios-traduccion)
+- [Reglas de sintaxis](reglas-sintaxis)
+- [Reglas de identificación](reglas-identificacion)
 
 ---
 
-## Uso
+## Glosarios
 
-Este sistema es obligatorio para toda contribución de localización dentro del proyecto.
+- [Geográfico](glosario-geografico)
+- [Antropológico](glosario-antropologico)
+- [Natural](glosario-natural)
+- [Misceláneo](glosario-miscelaneo)
