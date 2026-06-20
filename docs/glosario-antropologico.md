@@ -79,4 +79,5 @@
 - **Barrow**        → Túmulo / Montículo funerario  
 - **Grave**         → Tumba / Sepulcro  
 - **Crown**         → Corona / Diadema / Coronilla  
-- **Wreath**        → Corona / Guirnalda  
+- **Wreath**        → Corona / Guirnalda
+- **Branch**        → Brazo / Ramal / Rama / Cadete
