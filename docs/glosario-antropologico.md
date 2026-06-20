@@ -66,7 +66,8 @@
 - **Bury**          → Burgo / Ciudadela  
 - **Square**        → Ciudadela / Plaza *(uso contextual: fortín / cuartel)*  
 - **Market**        → Mercado / Plaza  
-- **Drain**         → Drenaje / Desagüe  
+- **Drain**         → Drenaje / Desagüe
+- **Pitch**         → Cancha / Campo / *(uso contextual: Asentamiento)*
 - **Hull**          → Casco / Armazón  
 - **Port**          → Puerto / Embarcadero / Cala / Caleta / Atracadero  
 - **Bridge**        → Puente / Paso / Cruce / Pontón  
