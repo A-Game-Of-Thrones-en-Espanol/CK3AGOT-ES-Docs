@@ -67,7 +67,8 @@
 - **Fold**      → Folde / Valle / Val  
 - **Vale**      → Val / Vall / Valde  
 - **Valley**    → Valle / Cuenca / Valde / Val  
-- **Pass**      → Paso / Puerto / Collado  
+- **Pass**      → Paso / Puerto / Collado
+- **Pitch**     → Paso / Campo / Paraje
 - **Gap**       → Paso / Brecha / Abertura  
 - **Field**     → Campo / Tierra / Prado / Llano  
 - **Fields**    → Campos / Tierras / Prados  
