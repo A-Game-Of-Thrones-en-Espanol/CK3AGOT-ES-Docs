@@ -1,6 +1,5 @@
-# CK3AGOT-ES-Docs
-# AGOT ES - Documentación Oficial
-
+# A Game Of Thrones en Español - Documentación Oficial
+[Repositorio de reglas de traducción de CK3AGOT en Español.](https://a-game-of-thrones-en-espanol.github.io/CK3AGOT-ES-Docs/)
 Este repositorio contiene el estándar de traducción, glosarios y criterios de localización del mod A Game of Thrones en Español.
 
 ---
