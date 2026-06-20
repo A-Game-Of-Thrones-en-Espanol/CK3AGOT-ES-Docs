@@ -72,7 +72,8 @@
 - **Gap**       → Paso / Brecha / Abertura  
 - **Field**     → Campo / Tierra / Prado / Llano  
 - **Fields**    → Campos / Tierras / Prados  
-- **Meadow**    → Dehesa / Prado / Vega  
+- **Meadow**    → Dehesa / Prado / Vega
+- **Mead**      → Vega / Pradera / Pradal / Predio
 - **Flats**     → Llanos / Planicie / Planada  
 - **Plains**    → Llanura / Planicie / Explanada  
 - **Barren**    → Baldío / Páramo / Yermo  
