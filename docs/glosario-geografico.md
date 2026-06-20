@@ -35,7 +35,8 @@
 - **Coast**     → Costa / Litoral  
 - **Cape**      → Cabo / Punta  
 - **Point**     → Punta / Cabo  
-- **Mull**      → Península / Cabo / Punta / Promontorio  
+- **Mull**      → Península / Cabo / Punta / Promontorio
+- **Head**      → Cabecera / Cabeza / Nacimiento / Naciente / Venero / Manantial
 - **Spine**     → Cima / Espinazo *(uso contextual)*  
 - **Island**    → Isla / Islote  
 - **Isles**     → Islas / Islotes  
