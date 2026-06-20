@@ -58,7 +58,9 @@
 - **Village**       → Aldea / Pueblo  
 - **Hamlet**        → Caserío / Villorrio / Lugarejo  
 - **Ham**           → Asentamiento / Caserío / Villorrio  
-- **Ton**           → Villa / Villorrio / Aldea *(uso contextual: -tón sufijo)*  
+- **Ton**           → Villa / Villorrio / Aldea *(uso contextual: -tón sufijo)*
+- **Ly**            → *(uso contextual: -lía / -Lés / -Lésia sufijos)*
+- **Lysh**          → *(uso contextual: -lisía / -Lesía / -Nésia sufijos)*
 - **Stead**         → Granja / Asentamiento / Caserío  
 - **Sted**          → Granja / Asentamiento / Caserío  
 - **Ster**          → Granja / Asentamiento / Caserío  
