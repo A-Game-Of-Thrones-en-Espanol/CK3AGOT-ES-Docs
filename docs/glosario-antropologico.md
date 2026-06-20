@@ -4,7 +4,9 @@
 
 - **Blunt**         → Romo / Firme  
 - **Mark**          → Marca / Frontera / Límite  
-- **Edge**          → Frontera / Límite / Filo  
+- **Edge**          → Frontera / Límite / Filo
+- **Provence**      → Provincia / Cantón / Comarca
+- **Canton**        → Cantón / Comarca / Coto
 - **March**         → Marca / Frontera / Límite / Marcha  
 - **Vare**          → Fortificado / Amurallado *(uso contextual)*  
 - **Stone**         → Fortaleza / Castro / Castel *(uso contextual)*  
