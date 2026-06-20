@@ -75,8 +75,9 @@
 - **Ant**         → Hormiga  
 - **Bee**         → Abeja
 - **Honey**       → Miel / Dulce / Meloso
-- **Pitch**       → Brea / Alquitrán
 - **Sweet**       → Dulce / Meloso
+- **Mead**        → Hidromiel / Aguamiel
 - **Wax**         → Cera
+- **Pitch**       → Brea / Alquitrán
 - **Milk**        → Leche / Lechoso
 - **Sour**        → Agrio / Amargo
