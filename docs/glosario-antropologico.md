@@ -60,7 +60,9 @@
 - **Ham**           → Asentamiento / Caserío / Villorrio  
 - **Ton**           → Villa / Villorrio / Aldea *(uso contextual: -tón sufijo)*
 - **Ly**            → *(uso contextual: -lía / -Lés / -Lésia sufijos)*
-- **Lysh**          → *(uso contextual: -lisía / -Lesía / -Nésia sufijos)*
+- **Lysh**          → *(uso contextual: -lisía / -Lesía sufijos)*
+- **Nysh**          → *(uso contextual: -Nésia sufijo)*
+- **Sey**          → *(uso contextual: -Nésia / -Éia sufijos)*
 - **Stead**         → Granja / Asentamiento / Caserío  
 - **Sted**          → Granja / Asentamiento / Caserío  
 - **Ster**          → Granja / Asentamiento / Caserío  
