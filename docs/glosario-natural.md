@@ -47,7 +47,7 @@
 - **Cat**         → Gato / Felino  
 - **Otter**       → Nutria  
 - **Robin**       → Petirrojo  
-- **Wasp**        → Avispa / Vespa  
+- **Wasp**        → Avispa / Vespa
 - **Hare**        → Liebre  
 - **Buck**        → Ciervo / Venado / Macho  
 - **Doe**         → Cierva  
@@ -74,3 +74,9 @@
 - **Spider**      → Araña  
 - **Ant**         → Hormiga  
 - **Bee**         → Abeja
+- **Honey**       → Miel / Dulce / Meloso
+- **Pitch**       → Brea / Alquitrán
+- **Sweet**       → Dulce / Meloso
+- **Wax**         → Cera
+- **Milk**        → Leche / Lechoso
+- **Sour**        → Agrio / Amargo
