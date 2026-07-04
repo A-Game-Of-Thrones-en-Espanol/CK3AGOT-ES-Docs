@@ -54,20 +54,20 @@
 - **Hearth**        → Hogar / Fogón / Corazón  
 - **Lodge**         → Albergue / Posada / Cabaña  
 - **Perch**         → Atalaya / Mirador / Posadero  
-- **Town**          → Villa / Ciudad  
-- **Village**       → Aldea / Pueblo  
+- **Stead**         → Granja / Alquería / Caserío / Masía / Finca
+- **Sted**          → Alquería / Granja / Caserío / Masía / Finca
+- **Ster**          → Granja / Finca / Alquería / Masía  / Finca
 - **Hamlet**        → Caserío / Villorrio / Lugarejo  
-- **Ham**           → Asentamiento / Caserío / Villorrio  
+- **Ham**           → Finca / Caserío / Villorrio / Masía  
 - **Ton**           → Villa / Villorrio / Aldea *(uso contextual: -tón sufijo)*
 - **Ly**            → *(uso contextual: -lía / -Lés / -Lésia sufijos)*
 - **Lysh**          → *(uso contextual: -lisía / -Lesía sufijos)*
 - **Nysh**          → *(uso contextual: -Nésia sufijo)*
 - **Sey**          → *(uso contextual: -Nésia / -Éia sufijos)*
-- **Stead**         → Granja / Asentamiento / Caserío  
-- **Sted**          → Granja / Asentamiento / Caserío  
-- **Ster**          → Granja / Asentamiento / Caserío  
 - **By**            → Villa / Aldea / Burgo  
-- **Bury**          → Burgo / Ciudadela  
+- **Bury**          → Burgo / Ciudadela
+- **Town**          → Villa / Ciudad  
+- **Village**       → Aldea / Pueblo  
 - **Square**        → Ciudadela / Plaza *(uso contextual: fortín / cuartel)*  
 - **Market**        → Mercado / Plaza  
 - **Drain**         → Drenaje / Desagüe
