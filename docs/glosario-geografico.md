@@ -66,7 +66,8 @@
 - **Glen**      → Cañada / Valle / Vaguada / Vallejo / Vagual  
 - **Fold**      → Folde / Valle / Val  
 - **Vale**      → Val / Vall / Valde  
-- **Valley**    → Valle / Cuenca / Valde / Val  
+- **Valley**    → Valle / Cuenca / Valde / Val
+- **Strath**    → Valle / Valde / Val  
 - **Pass**      → Paso / Puerto / Collado
 - **Pitch**     → Paso / Campo / Paraje / Pendiente / Inclinación / Inclinado
 - **Gap**       → Paso / Brecha / Abertura  
