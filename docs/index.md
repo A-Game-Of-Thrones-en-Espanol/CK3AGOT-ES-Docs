@@ -5,9 +5,10 @@ Repositorio oficial de reglas de traducción del mod CK3 AGOT en español.
 
 ## Sobre el proyecto
 
-El objetivo de este proyecto es ofrecer una experiencia inmersiva en español, respetando el lore de George R. R. Martin y adaptando la localización a las particularidades de Crusader Kings III, con el fin de lograr textos más naturales, coherentes y fieles al universo de Canción de Hielo y Fuego.
-
-La traducción de los títulos se basa en la versión de Cristina Macía para Editorial Gigamesh, la única traducción oficial al español de las novelas. En consecuencia, los títulos y nombres canónicos se mantienen conforme a dicha edición, mientras que los elementos no canónicos se traducen siguiendo sus mismos criterios estilísticos y terminológicos. Asimismo, se adopta su registro lingüístico, evitando la regionalización del español, con el objetivo de preservar la coherencia y el tono propio de la obra original.
+A Game of Thrones en Español es un proyecto dedicado a traducir, revisar y unificar la localización de CK3AGOT y sus submods, con el objetivo de ofrecer una experiencia en español coherente, inmersiva y fiel al universo de Canción de Hielo y Fuego. El proyecto busca adaptar cada contenido a las particularidades de Crusader Kings III, manteniendo una terminología común y textos naturales que respeten tanto el lore como la identidad de cada mod.
+La traducción toma como principal referencia la edición de Canción de Hielo y Fuego traducida por Cristina Macía y publicada por Editorial Gigamesh. Los títulos, topónimos y términos con traducción canónica se conservan conforme a dicha edición, mientras que el contenido original de los distintos mods se adapta siguiendo los mismos criterios estilísticos y terminológicos.
+A largo plazo, el proyecto busca consolidar una localización común para la comunidad hispanohablante de CK3AGOT, reduciendo inconsistencias entre mods y estableciendo criterios compartidos que faciliten su traducción y mantenimiento. Para ello se emplea un español neutral, evitando regionalismos innecesarios y procurando preservar el registro, la ambientación y el tono propios de la obra de George R. R. Martin.
+El proyecto está abierto a nuevos colaboradores. Quienes deseen participar como traductores y contribuir a su desarrollo pueden ponerse en contacto con nosotros a través de nuestro servidor de Discord.
 
 ---
 
